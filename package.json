@@ -1,0 +1,18 @@
+{
+  "name": "coding-train",
+  "version": "1.0.0",
+  "description": "circle ci",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "testing",
+    "ci"
+  ],
+  "author": "Adams Banjo",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
